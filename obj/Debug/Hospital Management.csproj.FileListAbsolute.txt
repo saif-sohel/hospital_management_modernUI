@@ -1,0 +1,20 @@
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe.config
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\bin\Debug\Hospital Management.pdb
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csprojAssemblyReference.cache
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Properties.Resources.resources
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.GenerateResource.cache
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\obj\Debug\Hospital Management.exe
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\obj\Debug\Hospital Management.pdb
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\bin\Debug\Guna.UI.dll
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.CopyComplete
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.LoginView.resources
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.RecepView.resources
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.AddPatient.resources
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.AddSchedule.resources
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.AddCabin.resources
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.ScheduleSelection.resources
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.AdminView.resources
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.AddDoctor.resources
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.docView.resources
+C:\Users\saifu\Desktop\C#\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.CoreCompileInputs.cache
